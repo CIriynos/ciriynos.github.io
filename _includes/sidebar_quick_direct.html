@@ -1,0 +1,10 @@
+<style>
+	a.test:link {color:black;font-size:28px;text-decoration:none;}    /* unvisited link */
+	a.test:visited {color:black;font-size:28px;text-decoration:none;} /* visited link */
+	a.test:hover {color:gray;font-size:28px;text-decoration:underline;}   /* mouse over link */
+	a.test:active {color:black;font-size:28px;text-decoration:underline;}  /* selected link */
+</style>
+
+<p><a class="test" href="/" target="_blank">
+{{ include.content }}
+</a></p>

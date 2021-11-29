@@ -46,6 +46,7 @@ defaults:
       comments: true
       share: true
       related: true
+      page_excerpts: true
 
 author: Tang Wenqi
 

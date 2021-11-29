@@ -1,7 +1,7 @@
 Tang Wenqi:
   name: "Tang Wenqi"
   avatar: "/assets/images/bio.png"
-  bio: "Writing Articles related to Science, Math, Phylosophy, etc." # Note: Markdown is allowed
+  bio: "记录各种想法与思考。<br>Record my ideas, share my daily." # Note: Markdown is allowed
   location: "Tianjin University, China."
   links:
     - label: "Made Mistakes"
