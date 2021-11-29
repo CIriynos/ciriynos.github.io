@@ -1,0 +1,15 @@
+Tang Wenqi:
+  name: "Tang Wenqi"
+  avatar: "/assets/images/bio.png"
+  bio: "Writing Articles related to Science, Math, Phylosophy, etc." # Note: Markdown is allowed
+  location: "Tianjin University, China."
+  links:
+    - label: "Made Mistakes"
+      icon: "fas fa-fw fa-link"
+      url: "https://mademistakes.com"
+    - label: "知乎"
+      icon: "fab fa-zhihu"
+      url: "https://www.zhihu.com/people/tangwenqi-13"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/CIriynos"
